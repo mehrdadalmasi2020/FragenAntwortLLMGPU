@@ -1,0 +1,8 @@
+PyMuPDF
+tokenizers
+semantic-text-splitter==0.13.3
+langchain
+langchain_community
+torchvision
+torchaudio
+ctransformers
