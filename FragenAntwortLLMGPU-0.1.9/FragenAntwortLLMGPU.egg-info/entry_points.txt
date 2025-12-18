@@ -1,2 +1,0 @@
-[console_scripts]
-process_document = FragenAntwortLLMGPU.document_processor:main
